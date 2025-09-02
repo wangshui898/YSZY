@@ -1,0 +1,65 @@
+{
+  "cache_time": 7200,
+  "api_site": {
+    "wolongzy": {
+      "api": "https://wolongzy.cc/api.php/provide/vod",
+      "name": "卧龙资源",
+      "detail": "https://wolongzyw.com/index.php/label/help1.html"
+    },
+    "lzzy": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子资源站",
+      "detail": "https://lzizy.net/help/"
+    },
+    "ffzy": {
+      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡影视",
+      "detail": "http://ffzy.tv/help"
+    },
+    "bfzy": {
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "暴风资源",
+      "detail": "https://bfzy.tv/help/?home"
+    },
+    "ikun": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "iKun资源",
+      "detail": "https://caiji.dyttzyapi.com/help"
+    },
+    "dytt": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "电影天堂资源",
+      "detail": "https://caiji.dyttzyapi.com/help"
+    },
+    "ruyi": {
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "name": "如意资源",
+      "detail": "https://www.ryzyw.com/help/"
+    },
+    "tyyszy": {
+      "api": "https://tyyszyapi.com/api.php/provide/vod",
+      "name": "天涯资源",
+      "detail": "https://tyyszy.com/help/"
+    },
+    "zy360": {
+      "api": "https://360zy.com/api.php/provide/vod",
+      "name": "360资源",
+      "detail": "https://www.360zy.com/360zy/help.html"
+    },
+    "jisu": {
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "name": "极速资源",
+      "detail": "https://jszyapi.com/index.php/help/index.html"
+    },
+    "mozhua": {
+      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "name": "魔爪资源",
+      "detail": "https://mozhuazy.com"
+    },
+    "mdzy": {
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "name": "魔都资源",
+      "detail": "https://www.mdzyapi.com"
+    }
+  }
+}
