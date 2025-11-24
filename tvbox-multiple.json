@@ -2,47 +2,47 @@
     "urls": [
         {
             "url": "https://ghproxy.wangshui898.top/https://raw.githubusercontent.com/wangshui898/YSZY/refs/heads/main/tvbox-zyz.json",
-            "name": "资源站"
+            "name": "📦 资源站"
         },
         {
             "url": "https://肥猫.com",
-            "name": "肥猫"
+            "name": "🐈 肥猫"
         },
         {
             "url": "http://tvbox.王二小放牛娃.top",
-            "name": "王小二放牛娃"
+            "name": "🧑‍🌾 王小二放牛娃"
         },
         {
             "url": "http://www.饭太硬.com/tv/",
-            "name": "饭太硬推荐"
+            "name": "🍚 饭太硬推荐"
         },
         {
             "url": "http://tv.nxog.top/m",
-            "name": "讴歌4K"
+            "name": "🌟 讴歌4K"
         },
         {
             "url": "http://xhztv.top/4k.json",
-            "name": "小盒子4K"
+            "name": "🎁 小盒子4K"
         },
         {
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-            "name": "少儿"
+            "name": "👧 少儿"
         },
         {
             "url": "http://ok321.top/tv",
-            "name": "OK-内部"
+            "name": "🔒 OK-内部"
         },
         {
             "url": "http://ok321.top/ok",
-            "name": "OK-外部"
+            "name": "🌎 OK-外部"
         },
         {
             "url": "https://10352.kstore.vip/tv",
-            "name": "OK-内部(备用)"
+            "name": "🔐 OK-内部(备用)"
         },
         {
             "url": "https://10352.kstore.vip/ok",
-            "name": "OK-外部(备用)"
+            "name": "🌐 OK-外部(备用)"
         }
     ]
 }
