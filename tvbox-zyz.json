@@ -1,0 +1,145 @@
+{
+  "sites": [
+    {
+      "key": "量子资源站",
+      "name": "量子资源站",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://lziplayer.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "无尽资源",
+      "name": "无尽资源",
+      "type": 1,
+      "api": "https://wjzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "卧龙资源",
+      "name": "卧龙资源",
+      "type": 1,
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "非凡资源站",
+      "name": "非凡资源站",
+      "type": 1,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "电影天堂",
+      "name": "电影天堂",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "ikun资源",
+      "name": "ikun资源",
+      "type": 1,
+      "api": "https://ikzy5.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "暴风资源",
+      "name": "暴风资源",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    }
+  ]
+}
