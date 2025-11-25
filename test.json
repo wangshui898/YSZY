@@ -2,9 +2,9 @@
   "sites": [
     {
       "key": "xxjzy",
-      "name": "🔞 小鸡资源",
+      "name": "🔞 香蕉资源",
       "type": 1,
-      "api": "https://api.xjzyapi.xyz/provide/vod?&ac=list",
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
