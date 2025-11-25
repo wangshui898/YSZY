@@ -205,7 +205,7 @@
     },
     {
       "key": "fqzy",
-      "name": "🔞 番茄资源",
+      "name": "🔞 番茄资源(广告头)",
       "type": 0,
       "api": "https://fqzy.me//api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -250,7 +250,7 @@
     },
     {
       "key": "大地资源",
-      "name": "🔞 ",
+      "name": "🔞 大地资源",
       "type": 1,
       "api": "https://dadiapi.com/feifei",
       "playUrl": "https://ddddjx.com/watch?url=",
@@ -290,6 +290,7 @@
     "ckm3u8"
   ]
 }
+
 
 
 
