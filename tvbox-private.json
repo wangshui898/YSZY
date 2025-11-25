@@ -5,7 +5,6 @@
       "name": "🔞 杏吧资源",
       "type": 0,
       "api": "https://xingba222.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://xbww888.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -81,7 +80,6 @@
       "name": "🔞 幸资源",
       "type": 0,
       "api": "https://xzybb1.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://19xzy.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -252,9 +250,8 @@
     {
       "key": "ddizy",
       "name": "🔞 大地资源",
-      "type": 1,
-      "api": "https://dadiapi.com/feifei",
-      "playUrl": "https://ddddjx.com/watch?url=",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -291,6 +288,7 @@
     "ckm3u8"
   ]
 }
+
 
 
 
