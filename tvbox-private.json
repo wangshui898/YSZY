@@ -3,8 +3,9 @@
     {
       "key": "xbzy",
       "name": "🔞 杏吧资源",
-      "type": 1,
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/json",
+      "type": 0,
+      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://xbww888.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -213,6 +214,7 @@
     }
    ]
 }
+
 
 
 
