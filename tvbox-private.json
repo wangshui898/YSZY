@@ -227,7 +227,7 @@
     },
     {
       "key": "xbaozy",
-      "name": "🔞 细胞资源",
+      "name": "🔞 细胞资源(广告头)",
       "type": 1,
       "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://xxb-player.com/player.php?url=",
@@ -292,6 +292,7 @@
     "ckm3u8"
   ]
 }
+
 
 
 
