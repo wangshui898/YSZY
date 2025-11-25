@@ -299,29 +299,29 @@
           "category": 4,
           "name": "enable-accurate-seek",
           "value": "0"
-        }，
+        },
         {
           "category": 4,
           "name": "mediacodec",
           "value": "0"
-        }，
+        },
         {
           "category": 4,
           "name": "mediacodec-auto-rotate",
           "value": "0"
-        }，
+        },
         {
           "category": 4,
           "name": "mediacodec-handle-resolution-change",
           "value": "0"
-        }，
+        },
         {
           "category": 4,
           "name": "mediacodec-hevc",
           "value": "0"
         }
       ]
-    }，
+    },
     {
       "group": "硬解码",
       "options": [
@@ -429,14 +429,14 @@
     "s9.cnzz.com",
     "z6.cnzz.com",
     "um.cavuc.com",
-    "mav.mavuz.com"，
-    "wofwk.aoidf3.com"，
-    "z5.cnzz.com"，
-    "xc.hubeijieshikj.cn"，
-    "tj.tianwenhu.com"，
-    "xg.gars57.cn"，
-    "k.jinxiuzhilv.com"，
-    "cdn.bootcss.com"，
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "z5.cnzz.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
     "ppl.xunzhuo123.com",
     "xomk.jiangjunmh.top",
     "img.xunzhuo123.com",
@@ -463,6 +463,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
