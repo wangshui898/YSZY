@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "xbzy",
-      "name": "🔞 杏吧资源",
+      "key": "xxjzy",
+      "name": "🔞 小鸡资源",
       "type": 1,
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/json",
+      "api": "https://api.xjzyapi.xyz/provide/vod?&ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
