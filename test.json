@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "xxjzy",
-      "name": "🔞 香蕉资源",
-      "type": 1,
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/json",
+      "key": "smzy",
+      "name": "🔞 色猫资源",
+      "type": 0,
+      "api": "https://caiji.semaozy.net/inc/api.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
