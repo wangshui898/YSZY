@@ -4,7 +4,7 @@
       "key": "xjzy",
       "name": "🔞 小鸡资源",
       "type": 0,
-      "api": "https://api.xjzyapi.xyz/provide/vod?at=xml&ac=list",
+      "api": "https://api.xjzyapi.xyz/provide/vod?&ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -301,4 +301,5 @@
       ]
     }
    ]
+
 }
