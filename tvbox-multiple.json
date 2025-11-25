@@ -26,8 +26,12 @@
             "name": "🌎 OK-外部"
         },
         {
-            "url": "https://ghproxy.wangshui898.top/https://raw.githubusercontent.com/wangshui898/YSZY/refs/heads/main/tvbox-zyz.json",
+            "url": "https://ghproxy.wangshui898.top/https://raw.githubusercontent.com/wangshui898/YSZY/refs/heads/main/tvbox-public.json",
             "name": "🏠 影视资源站"
-        }
+        },
+        {
+            "url": "https://ghproxy.wangshui898.top/https://raw.githubusercontent.com/wangshui898/YSZY/refs/heads/main/tvbox-private.json",
+            "name": "⛔ 成人资源站"
+        },
     ]
 }
