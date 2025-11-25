@@ -59,6 +59,7 @@
       "name": "🔞 黄色仓库",
       "type": 0,
       "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/xml",
+      "playUrl": "https://jx.bfhsck.com/m3u8/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -132,6 +133,7 @@
       "name": "🔞 CK百货",
       "type": 0,
       "api": "https://ckbh1.xyz/api.php/provide/vod/at/xml",
+      "playUrl": "https://ckm3u8.top/index.html?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -220,7 +222,57 @@
         "偷拍自拍",
         "乱伦毁三观"
       ]
-    }
+    },
+    {
+      "key": "xbzy",
+      "name": "🔞 细胞资源",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://xxb-player.com/player.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "热门视频",
+        "吃瓜爆料",
+        "国产色情",
+        "传媒原创",
+        "自拍偷拍",
+        "日本无码",
+        "日本有码",
+        "中文字幕",
+        "人妻熟女",
+        "欧美精品",
+        "卡通动漫",
+        "AV解说",
+        "伦理三级"
+      ]
+    },
+    {
+      "key": "大地资源",
+      "name": "🔞 ",
+      "type": 1,
+      "api": "https://dadiapi.com/feifei",
+      "playUrl": "https://ddddjx.com/watch?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "热门视频",
+        "吃瓜爆料",
+        "国产色情",
+        "传媒原创",
+        "自拍偷拍",
+        "日本无码",
+        "日本有码",
+        "中文字幕",
+        "人妻熟女",
+        "欧美精品",
+        "卡通动漫",
+        "AV解说",
+        "伦理三级"
+      ]
+    },
    ],
   "flags": [
     "youku",
@@ -234,7 +286,9 @@
     "mgtv",
     "wasu",
     "doudou",
-    "fqm3u8"
+    "fqm3u8",
+    "ckm3u8"
   ]
 }
+
 
