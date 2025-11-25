@@ -284,7 +284,7 @@
       "key": "mdzy",
       "name": "🏙️ 魔都资源",
       "type": 0,
-      "api": "ttps://www.mdzyapi.com/api.php/provide/vod/at/xml",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
