@@ -1,51 +1,10 @@
 {
   "sites": [
     {
-      "key": "量子资源",
-      "name": "⚛️ 量子资源",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "https://lziplayer.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "悬疑片",
-        "战争片",
-        "国产剧",
-        "韩国剧",
-        "大陆综艺",
-        "国产动漫",
-        "日韩动漫"
-      ]
-    },
-    {
-      "key": "无尽资源",
-      "name": "♾️ 无尽资源",
-      "type": 1,
-      "api": "https://wjzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "悬疑片",
-        "战争片",
-        "国产剧",
-        "韩国剧",
-        "大陆综艺",
-        "国产动漫",
-        "日韩动漫"
-      ]
-    },
-    {
-      "key": "卧龙资源",
+      "key": "wlm3u8",
       "name": "🐉 卧龙资源",
-      "type": 1,
-      "api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list",
+      "type": 0,
+      "api": "https://wolongzy.cc/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -62,10 +21,50 @@
       ]
     },
     {
-      "key": "非凡资源",
+      "key": "lzm3u8",
+      "name": "⚛️ 量子资源",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "wjm3u8",
+      "name": "♾️ 无尽资源",
+      "type": 0,
+      "api": "https://wjzyapi.com/api.php/provide/vod/from/wjm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "ffm3u8",
       "name": "✨ 非凡资源",
-      "type": 1,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
+      "type": 0,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -82,10 +81,10 @@
       ]
     },
     {
-      "key": "电影天堂",
+      "key": "dyttm3u8",
       "name": "🎬 电影天堂",
-      "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
+      "type": 0,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -102,10 +101,10 @@
       ]
     },
     {
-      "key": "ikun资源",
+      "key": "ikm3u8",
       "name": "🏀 ikun资源",
-      "type": 1,
-      "api": "https://ikzy5.com/api.php/provide/vod/at/json",
+      "type": 0,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -122,10 +121,10 @@
       ]
     },
     {
-      "key": "暴风资源",
+      "key": "bfzy",
       "name": "🌪️ 暴风资源",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "type": 0,
+      "api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -140,6 +139,126 @@
         "国产动漫",
         "日韩动漫"
       ]
-    }
+    },
+    {
+      "key": "jsm3u8",
+      "name": "极速资源",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "360m3u8",
+      "name": "360资源",
+      "type": 1,
+      "api": "https://360zyzz.com/api.php/provide/vod/from/360m3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "tyzy",
+      "name": "天涯资源",
+      "type": 0,
+      "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "rym3u8",
+      "name": "如意资源",
+      "type": 0,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片"，
+        "国产剧",
+        "韩国剧"，
+        "大陆综艺"，
+        "国产动漫"，
+        "日韩动漫"
+      ]
+    }，
+    {
+      "key": "tpm3u8",
+      "name": "淘片资源",
+      "type": 0,
+      "api": "https://taopianapi.com/cjapi/sda/vod/xml/m3u8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺"，
+        "国产动漫"，
+        "日韩动漫"
+      ]
+    }，
+    {
+      "key": "hnm3u8",
+      "name": "红牛资源",
+      "type": 0,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
   ]
 }
