@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "smzy",
-      "name": "🔞 色猫资源",
+      "key": "xbzy",
+      "name": "🔞 杏吧资源",
       "type": 0,
-      "api": "https://caiji.semaozy.net/inc/api.php",
+      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
