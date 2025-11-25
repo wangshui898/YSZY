@@ -104,7 +104,7 @@
       "key": "ikm3u8",
       "name": "🏀 ikun资源",
       "type": 0,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/xml",
+      "api": "https://ikzy5.com/api.php/provide/vod/from/ikm3u8/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -142,7 +142,7 @@
     },
     {
       "key": "jsm3u8",
-      "name": "极速资源",
+      "name": "⚡️极速资源",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
       "searchable": 1,
@@ -161,28 +161,8 @@
       ]
     },
     {
-      "key": "360m3u8",
-      "name": "360资源",
-      "type": 1,
-      "api": "https://360zyzz.com/api.php/provide/vod/from/360m3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "悬疑片",
-        "战争片",
-        "国产剧",
-        "韩国剧",
-        "大陆综艺",
-        "国产动漫",
-        "日韩动漫"
-      ]
-    },
-    {
       "key": "tyzy",
-      "name": "天涯资源",
+      "name": "🗺️ 天涯资源",
       "type": 0,
       "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -202,7 +182,7 @@
     },
     {
       "key": "rym3u8",
-      "name": "如意资源",
+      "name": "🍀 如意资源",
       "type": 0,
       "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml",
       "searchable": 1,
@@ -221,28 +201,8 @@
       ]
     },
     {
-      "key": "tpm3u8",
-      "name": "淘片资源",
-      "type": 0,
-      "api": "https://taopianapi.com/cjapi/sda/vod/xml/m3u8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "悬疑片",
-        "战争片",
-        "国产剧",
-        "韩国剧",
-        "大陆综艺",
-        "国产动漫",
-        "日韩动漫"
-      ]
-    },
-    {
       "key": "hnm3u8",
-      "name": "红牛资源",
+      "name": "🐂 红牛资源",
       "type": 0,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml",
       "searchable": 1,
@@ -259,6 +219,106 @@
         "国产动漫",
         "日韩动漫"
       ]
+    },
+    {
+      "key": "mtm3u8",
+      "name": "🥃 茅台资源",
+      "type": 0,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "dbm3u8",
+      "name": "📚 豆瓣资源",
+      "type": 0,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
+    },
+    {
+      "key": "mym3u8",
+      "name": "🐈‍⬛ 猫眼资源",
+      "type": 0,
+      "api": "https://api.maoyanapi.top/api.php/provide/vod/from/mym3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片"，
+        "国产剧",
+        "韩国剧"，
+        "大陆综艺"，
+        "国产动漫"，
+        "日韩动漫"
+      ]
+    }，
+    {
+      "key": "mdzy",
+      "name": "🏙️ 魔都资源",
+      "type": 0,
+      "api": "ttps://www.mdzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧"，
+        "大陆综艺"，
+        "国产动漫"，
+        "日韩动漫"
+      ]
+    }，
+    {
+      "key": "gsm3u8",
+      "name": "💡 光速资源",
+      "type": 0,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "悬疑片",
+        "战争片",
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "国产动漫",
+        "日韩动漫"
+      ]
     }
-  ]
+   ]
 }
