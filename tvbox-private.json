@@ -59,7 +59,6 @@
       "name": "🔞 黄色仓库",
       "type": 0,
       "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/xml",
-      "playUrl": "https://jx.bfhsck.com/m3u8/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -292,6 +291,7 @@
     "ckm3u8"
   ]
 }
+
 
 
 
