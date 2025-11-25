@@ -1,1 +1,40 @@
-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
+{
+  "cache_time": 7200,
+  "api_site": {
+    "lzzy": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "⚛️ 量子资源",
+      "detail": "资源主页: https://lzizy.net, 解析加速: lziplayer.com"
+    },
+    "wjzy": {
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "name": "♾️ 无尽资源",
+      "detail": "资源主页: https://www.wujinzy.com, 解析加速: qrssuv.com"
+    },
+    "wolongzy": {
+      "api": "https://wolongzy.cc/api.php/provide/vod",
+      "name": "🐉 卧龙资源",
+      "detail": "资源主页: https://wolongzyw.com, 解析加速: wlcdn88.com, jx.wolongm3u8.com, pic.wlongimg.com"
+    },
+    "ffzy": {
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "name": "✨ 非凡资源",
+      "detail": "资源主页: http://ffzy5.tv, 解析加速: svip.ffzyplay.com, img.ffzy888.com"
+    },
+    "dytt": {
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "🎬 电影天堂",
+      "detail": "资源主页: http://dyttzy.tv, 解析加速: vip.dyttzyplay.com"
+    },
+    "ikun": {
+      "api": "https://ikzy5.com/api.php/provide/vod",
+      "name": "🏀 ikun资源",
+      "detail": "资源主页: https://www.ikunzy.com, 解析加速: ikdmjx.com"
+    },
+    "bfzy": {
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "🌪️ 暴风资源",
+      "detail": "资源主页: https://bfzy.tv/help/?home, 解析加速: bfbfvip.com, bfllvip.com, tu.bfzytu.com"
+    }
+  }
+}
