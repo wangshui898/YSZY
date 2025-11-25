@@ -182,7 +182,7 @@
     },
     {
       "key": "xjzy",
-      "name": "🔞 香蕉资源",
+      "name": "🔞 香蕉资源(广告头)",
       "type": 0,
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -290,6 +290,7 @@
     "ckm3u8"
   ]
 }
+
 
 
 
