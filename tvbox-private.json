@@ -161,7 +161,7 @@
     },
     {
       "key": "smzy",
-      "name": "🔞 色猫资源",
+      "name": "🔞 色猫资源(图裂)",
       "type": 0,
       "api": "https://caiji.semaozy.net/inc/api.php",
       "searchable": 1,
@@ -292,6 +292,7 @@
     "ckm3u8"
   ]
 }
+
 
 
 
