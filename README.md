@@ -9,7 +9,7 @@
 | 文件名 | 用途说明 | 核心关键词 |
 | :--- | :--- | :--- |
 | `LunaTV.json` | 专为 **LunaTV (原 MoonTV)** 应用程序设计的资源源配置文件。 | 🌙 LunaTV 专用 |
-| `tvbox-repos.json` | **TVBox 系列壳子软件**（如猫、Fongmi 等）的**通用**资源站点配置列表。 | 📺 通用站点 |
+| `tvbox-repos.json` | **TVBox 系列壳子软件**（如影视仓、OK影视 等）的**通用**资源站点配置列表。 | 📺 通用站点 |
 | `tvbox-private.json` | 专为 TVBox 壳子系列准备的**个人定制**、非公开站点资源配置。 | 🔒 个人定制 |
 | `tvbox-multiple.json` | 基于上述配置文件 (`repos` 和 `private`) **聚合而成的多仓接口**。 | ✨ 多源聚合 |
 
