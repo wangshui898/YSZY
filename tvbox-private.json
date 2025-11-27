@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "savzy",
-      "name": "🔞 搜AV(10w)",
+      "name": "🔞 搜AV资源(无广告10w)",
       "type": 1,
       "api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -51,7 +51,7 @@
     },
     {
       "key": "xingzy",
-      "name": "🔞 幸资源(6w)",
+      "name": "🔞 幸资源(无广告6w)",
       "type": 1,
       "api": "https://xzybb1.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -77,7 +77,7 @@
     },
     {
       "key": "lbozy",
-      "name": "🔞 乐播资源(37w)",
+      "name": "🔞 乐播资源(无广告37w)",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list",
       "searchable": 1,
@@ -93,28 +93,8 @@
        ]
     },
     {
-      "key": "swam3u8",
-      "name": "🔞 丝袜资源(21w)",
-      "type": 1,
-      "api": "https://siwazyw.tv/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "亚洲无码",
-        "亚洲有码",
-        "中文字幕",
-        "日韩伦理",
-        "欧美情色",
-        "动漫卡通",
-        "国产自拍",
-        "91大神",
-        "AV解说"
-       ]
-    },
-    {
       "key": "hsckum3u8",
-      "name": "🔞 黄色仓库(4w)",
+      "name": "🔞 仓库资源(无广告4w)",
       "type": 1,
       "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json",
       "searchable": 1,
@@ -140,7 +120,7 @@
     },
     {
       "key": "ckbhm3u8",
-      "name": "🔞 CK百货(5w)",
+      "name": "🔞 CK资源(无广告5w)",
       "type": 1,
       "api": "https://ckbh1.xyz/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -174,7 +154,7 @@
     },
     {
       "key": "ddouzy",
-      "name": "🔞 豆豆资源(3w)",
+      "name": "🔞 豆豆资源(无广告3w)",
       "type": 1,
       "api": "https://api.douapi.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -191,6 +171,32 @@
         "偷拍自拍",
         "AV解说"
       ]
+    },
+    {
+      "key": "91zy",
+      "name": "🔞 91资源(无广告3w)",
+      "type": 1,
+      "api": "https://91jpzyw.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "日本有码",
+        "中文字幕",
+        "AV解说",
+        "精品动漫",
+        "动漫肉番",
+        "ASMR",
+        "麻豆传媒",
+        "爱豆传媒",
+        "其他传媒",
+        "国产探花",
+        "国产乱伦",
+        "网红大V精选",
+        "网曝门事件",
+        "日本无码",
+        "VR专区"
+       ]
     },
     {
       "key": "syuzy",
@@ -508,29 +514,23 @@
        ]
     },
     {
-      "key": "91zy",
-      "name": "🔞 91资源(3w)",
+      "key": "swam3u8",
+      "name": "🔞 丝袜资源(21w)-播放失效",
       "type": 1,
-      "api": "https://91jpzyw.com/api.php/provide/vod/at/json",
+      "api": "https://siwazyw.tv/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "日本有码",
+        "亚洲无码",
+        "亚洲有码",
         "中文字幕",
-        "AV解说",
-        "精品动漫",
-        "动漫肉番",
-        "ASMR",
-        "麻豆传媒",
-        "爱豆传媒",
-        "其他传媒",
-        "国产探花",
-        "国产乱伦",
-        "网红大V精选",
-        "网曝门事件",
-        "日本无码",
-        "VR专区"
+        "日韩伦理",
+        "欧美情色",
+        "动漫卡通",
+        "国产自拍",
+        "91大神",
+        "AV解说"
        ]
     },
     {
