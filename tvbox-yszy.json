@@ -28,10 +28,6 @@
         {
             "url": "https://wget.la/https://raw.githubusercontent.com/wangshui898/YSZY/refs/heads/main/tvbox-repos.json",
             "name": "🏠 影视资源站"
-        },
-        {
-            "url": "https://wget.la/https://raw.githubusercontent.com/wangshui898/YSZY/refs/heads/main/tvbox-private.json",
-            "name": "⛔ 成人资源站"
         }
     ]
 }
