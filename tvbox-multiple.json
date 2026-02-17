@@ -26,14 +26,6 @@
             "name": "🌎 OK-外部"
         },
         {
-            "url": "http://8.129.22.85/Jiang.json",
-            "name": "江江TVbox4K源"
-        },
-        {
-            "url": "https://xiaofei.men/tvbox.json",
-            "name": "小飞TVbox4K源"
-        },
-        {
             "url": "https://wget.la/https://raw.githubusercontent.com/wangshui898/YSZY/refs/heads/main/tvbox-repos.json",
             "name": "🏠 影视资源站"
         },
