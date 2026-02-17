@@ -1,33 +1,124 @@
 {
-    "urls": [
-
-        {
-            "url": "https://肥猫.com",
-            "name": "🐈 肥猫"
-        },
-        {
-            "url": "http://www.饭太硬.com/tv/",
-            "name": "🍚 饭太硬推荐"
-        },
-        {
-            "url": "http://tvbox.王二小放牛娃.top",
-            "name": "🧑‍🌾 王小二放牛娃"
-        },
-        {
-            "url": "http://tv.nxog.top/m",
-            "name": "🌟 讴歌4K"
-        },
-        {
-            "url": "http://ok321.top/tv",
-            "name": "🔒 OK-内部"
-        },
-        {
-            "url": "http://ok321.top/ok",
-            "name": "🌎 OK-外部"
-        },
-        {
-            "url": "https://ghproxy.wangshui898.top/https://raw.githubusercontent.com/wangshui898/YSZY/refs/heads/main/tvbox-repos.json",
-            "name": "🏠 影视资源站"
-        }
-    ]
+  "urls": [
+    {
+      "url": "https://肥猫.com",
+      "name": "🐈 肥猫 (高频/稳定)"
+    },
+    {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "🍚 饭太硬 (高频/稳定)"
+    },
+    {
+      "url": "https://www.iyouhun.com/tv/ok",
+      "name": "🚀 游魂┃OK (高频)"
+    },
+    {
+      "url": "http://tv.nxog.top/m",
+      "name": "🌟 讴歌4K (高频)"
+    },
+    {
+      "url": "http://tvbox.王二小放牛娃.top",
+      "name": "🧑‍🌾 王小二放牛娃 (高频)"
+    },
+    {
+      "url": "http://ok321.top/tv",
+      "name": "🔒 OK-内部 (高频)"
+    },
+    {
+      "url": "http://ok321.top/ok",
+      "name": "🌎 OK-外部 (高频)"
+    },
+    {
+      "url": "https://xn--8owq8u.com/tv/",
+      "name": "🍯 毒盒 (高频)"
+    },
+    {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "🦆 俊于/俊佬 (极速)"
+    },
+    {
+      "url": "https://yydsys.top/duo",
+      "name": "💞 多多 (极速)"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.top",
+      "name": "🐟 摸鱼"
+    },
+    {
+      "url": "https://szyyds.cn/tv/x.json",
+      "name": "🚀 小马"
+    },
+    {
+      "url": "http://fmys.top/fmys.json",
+      "name": "🚀 驸马"
+    },
+    {
+      "url": "https://www.iyouhun.com/tv/fty",
+      "name": "🚀 游魂┃饭太硬"
+    },
+    {
+      "url": "https://www.iyouhun.com/tv/fm",
+      "name": "🚀 游魂┃肥猫"
+    },
+    {
+      "url": "https://www.iyouhun.com/tv/nf",
+      "name": "🚀 游魂┃南风"
+    },
+    {
+      "url": "https://www.iyouhun.com/tv/xiaomi",
+      "name": "🚀 游魂┃小米"
+    },
+    {
+      "url": "https://www.iyouhun.com/tv/dj",
+      "name": "🎥 游魂┃短剧"
+    },
+    {
+      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+      "name": "🚀 小苹果/喵影视"
+    },
+    {
+      "url": "http://tv.laohu.cool/tvbox.json",
+      "name": "🐯 老虎线路"
+    },
+    {
+      "url": "https://ztha.top/TVBox/thdjk.json",
+      "name": "🚀 挺好线路"
+    },
+    {
+      "url": "https://chuanshuo.77blog.cn/tv.json",
+      "name": "🚀 传说线路"
+    },
+    {
+      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+      "name": "🚀 短剧大全"
+    },
+    {
+      "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json",
+      "name": "黄金📚在线"
+    },
+    {
+      "url": "https://yydsys.netlify.app/config.json",
+      "name": "💞 多多单线"
+    },
+    {
+      "url": "http://rihou.vip:88/荷城茶秀",
+      "name": "荷城茶锈❤心动仓库"
+    },
+    {
+      "url": "https://ghps.cc/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
+      "name": "心动单仓❤心动仓库"
+    },
+    {
+      "url": "http://111.67.195.139/bd/xyq.json",
+      "name": "香雅情深❤心动仓库"
+    },
+    {
+      "url": "https://tvbox.cainisi.cf",
+      "name": "菜妮姐姐❤心动仓库"
+    },
+    {
+      "url": "https://ghproxy.wangshui898.top/https://raw.githubusercontent.com/wangshui898/YSZY/refs/heads/main/tvbox-repos.json",
+      "name": "🏠 影视资源站"
+    }
+  ]
 }
