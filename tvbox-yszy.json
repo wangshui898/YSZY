@@ -526,7 +526,7 @@
       "key": "xgm3u8",
       "name": "🍉 西瓜资源",
       "type": 0,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod/from/xiguam3u8/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
